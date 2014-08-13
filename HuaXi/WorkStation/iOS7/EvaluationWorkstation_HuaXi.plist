@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.cronf.iEvaluationWorkstation</string>
+				<string>com.dihmed.iAnesthesiaClinic</string>
 				<key>bundle-version</key>
 				<string>1.00</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>华西版本</string>
 				<key>title</key>
-				<string>麻醉工作站(1.00)</string>
+				<string>麻醉工作站(1.01)</string>
 			</dict>
 		</dict>
 	</array>
