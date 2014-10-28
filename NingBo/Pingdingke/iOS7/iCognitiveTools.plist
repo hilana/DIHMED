@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.dihmed.com/media/default/app/NingBo/Pingdingke/iOS7/icon_57_iAphasia.png</string>
+					<string>http://www.dihmed.com/media/default/app/NingBo/Pingdingke/iOS7/icon_57_iAphasia_tool.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.dihmed.com/media/default/app/NingBo/Pingdingke/iOS7/icon_512_iAphasia.png</string>
+					<string>http://www.dihmed.com/media/default/app/NingBo/Pingdingke/iOS7/icon_512_iAphasia_tool.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
