@@ -35,13 +35,13 @@
 				<key>bundle-identifier</key>
 				<string>com.cronf.ICF</string>
 				<key>bundle-version</key>
-				<string>1.15</string>
+				<string>1.16</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
 				<string>通用ICF</string>
 				<key>title</key>
-				<string>正式版本(1.15)</string>
+				<string>正式版本(1.16)</string>
 			</dict>
 		</dict>
 	</array>
